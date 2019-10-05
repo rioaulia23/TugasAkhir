@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/buku"
+        android:title="Books List" />
+    <item
+        android:icon="@drawable/grid"
+        android:title="Grid View" />
+    <item
+        android:icon="@drawable/user"
+        android:title="Profile" />
+
+</menu>
